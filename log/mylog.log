@@ -126,3 +126,11 @@
 2023-08-05 11:42:17.158 | DEBUG    | __main__:__init__:40 - Initialized <class '__main__.DataRecorder'>
 2023-08-05 11:42:17.159 | DEBUG    | __main__:reset:52 - Reset
 2023-08-05 11:42:17.173 | DEBUG    | __main__:run_forever:57 - Started run_forever
+2023-08-05 14:03:07.921 | DEBUG    | __main__:reset:52 - Reset
+2023-08-05 14:03:07.925 | DEBUG    | __main__:__init__:40 - Initialized <class '__main__.DataRecorder'>
+2023-08-05 14:03:07.925 | DEBUG    | __main__:reset:52 - Reset
+2023-08-05 14:03:07.933 | DEBUG    | __main__:run_forever:57 - Started run_forever
+2023-08-05 14:03:36.566 | DEBUG    | __main__:reset:52 - Reset
+2023-08-05 14:03:36.566 | DEBUG    | __main__:__init__:40 - Initialized <class '__main__.DataRecorder'>
+2023-08-05 14:03:36.566 | DEBUG    | __main__:reset:52 - Reset
+2023-08-05 14:03:36.589 | DEBUG    | __main__:run_forever:57 - Started run_forever
